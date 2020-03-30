@@ -1,7 +1,7 @@
 This is a definitive guide to anyone that want to learn and jump into information security field using some systematic academic approach. Take some time to learn the material and don't rush in. [READ THIS FIRST](https://github.com/tkisason/getting-started-in-infosec/blob/master/README.md)
 
 # Main Topics:
-- [Code and Ethics](#code-and-ethics)
+- [Code and Ethics](#professionalism-&-ethics)
 - [Soft Skills](#soft-skills)
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Mathematics](#mathematics)
@@ -21,8 +21,8 @@ This is a definitive guide to anyone that want to learn and jump into informatio
 ## Professionalism & Ethics
 Link | Description
 --- | ---
-[ISSA Code of Ethics](https://www.issa.org/issa-code-of-ethics/) | Code and Ethics from ISSA.
-[IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) | Code and Ethics from IEEE.
+[ISSA Code of Ethics](https://www.issa.org/issa-code-of-ethics/) | Code and ethics from ISSA.
+[IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) | Code and ethics from IEEE.
 
 ## Soft Skills
 Link | Description
@@ -51,14 +51,14 @@ Link | Description
 ## Networking
 Link | Description
 --- | ---
-[Computer Networking](https://cs144.github.io/) | Introduction to Computer Networking.
-[Network Design]() | Network Design
-[Network Hardening]() | Network Hardening
+[Computer Networking](https://cs144.github.io/) | Introduction to computer networking.
+[Network Design]() | Will be add later
+[Network Hardening]() | Will be add later
 
 ## Programming
 Link | Description
 --- | ---
-[Python for Beginners](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Foundation on programming in Python, starting from common everyday code and scenarios; from Microsoft!
+[Python for Beginners](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Foundation on programming in Python, starting from common everyday code and scenarios; from Microsoft on YouTube!
 [C]() | Will be add later.
 [Go lang]() | Will be add later.
 
@@ -105,7 +105,7 @@ Link | Description
 ## Ethical Hacking
 Link | Description
 --- | ---
-[Penetration Testing](https://nostarch.com/pentesting) | A Hands-On Introduction to Hacking by Georgia Weidman.
+[Penetration Testing](https://nostarch.com/pentesting) | A hands-On introduction to hacking by Georgia Weidman.
 [Offensive Computer Security](http://howto.hackallthethings.com/2016/07/introduction-to-offensive-computer.html) | Offensive computer security class.
 
 ## Web Application Security
@@ -124,13 +124,13 @@ Link | Description
 ## Mobile Hacking
 Link | Description
 --- | ---
-[Mobile Hacking](https://www.hacker101.com/sessions/mobile_crash_course) | Mobile Hacking
-[Android App Reverse Engineering](https://maddiestone.github.io/AndroidAppRE/) | Android App
+[Mobile Hacking](https://www.hacker101.com/sessions/mobile_crash_course) | Mobile hacking crash course from HackerOne.
+[Android App Reverse Engineering](https://maddiestone.github.io/AndroidAppRE/) | Android app reverse engineering 101 from Maddie Stone.
 
 ## Reverse Engineering
 Link | Description
 --- | ---
-[Reverse Engineering](https://beginners.re/) | RE for beginners.
+[Reverse Engineering](https://beginners.re/) | Free to download pdf book Reverse Engineering for beginners.
 
 ## Malware Analysis
 Link | Description
