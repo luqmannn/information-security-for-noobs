@@ -139,7 +139,7 @@ Link | Description
 ## Open Source Intelligence
 Link | Description
 --- | ---
-[Open Source Intelligence Techniques]() | Completely rewritten seventh edition sheds new light on Open Source Intelligence (OSINT) collection and analysis.
+[Open Source Intelligence Techniques](https://inteltechniques.com/book1.html) | Completely rewritten book seventh edition sheds new light on Open Source Intelligence (OSINT) collection and analysis.
 [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 
 ## Mobile Hacking
