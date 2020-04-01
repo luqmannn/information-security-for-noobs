@@ -1,6 +1,7 @@
-This is a definitive guide to anyone that want to learn and jump into information security field using some systematic academic approach. Take some time to learn the material and don't rush in. [READ THIS FIRST](https://github.com/tkisason/getting-started-in-infosec/blob/master/README.md)
+This is a definitive guide to anyone that want to learn and jump into information security field using some systematic academic approach. Take some time to learn the material and don't rush in. And please, _**don't be evil, follow the law and don't break the law.**_
 
 - First thing to remember:
+    - [How to Become...](http://www.catb.org/esr/faqs/hacker-howto.html)
     - [Deep Work](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) 
     - [Paradox Of Choice](https://azeria-labs.com/paradox-of-choice/)
     - [Mastering A Skill](https://azeria-labs.com/the-process-of-mastering-a-skill/)
