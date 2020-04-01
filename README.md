@@ -87,7 +87,7 @@ Link | Description
 ## Cyber Law
 Link | Description
 --- | ---
-[Cyber Law]() | Depends on the country, every country have different laws and acts.
+[Cyber Law](https://duckduckgo.com/?t=ffab&q=cyberlaw&ia=web) | Depends on the country, every country have different laws and acts to enforce.
 
 ## Computer and Network Security
 Link | Description
