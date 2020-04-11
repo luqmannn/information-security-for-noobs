@@ -167,6 +167,7 @@ Link | Description
 Link | Description
 --- | ---
 [Malware Analyst’s Cookbook](https://www.wiley.com/en-us/Malware+Analyst%27s+Cookbook+and+DVD%3A+Tools+and+Techniques+for+Fighting+Malicious+Code-p-9781118008294) | A computer forensics "how-to" for fighting malicious code and analyzing incident.
+[Malware Analysis Training (MalTrak)](https://maltrak.com/join) | Practical hands-on malware analysis training by Amr Thabet that aim for begineers with basic understanding of cybersecurity.
 
 ## Digital Forensic
 Link | Description
