@@ -12,7 +12,8 @@ This is a definitive guide to anyone that want to learn and jump into informatio
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Mathematics](#mathematics)
 - [Operating System and System Administration](#operating-system-and-system-administration)
-- [Networking](#networking)
+- [Networking](#networking-basics):
+    - [Optional](#optional)
 - [Programming](#programming)
 - [Database System](#database-system)
 - [Web Application Development](#web-application-development)
@@ -54,13 +55,19 @@ Link | Description
 [The Linux Command Line](http://linuxcommand.org/tlcl.php) | Great introduction to Linux command line for complete noob, now available for free to download in PDF format.
 [Linux Essentials](https://www.youtube.com/playlist?list=PLrA4KuHAnLOP7bzxgE4yMn1SRitEaZVBB) | Linux essentials for ethical hacker series from Hackersploit.
 
-## Networking
+## Networking Basics
 Link | Description
 --- | ---
-[Networking Concepts](https://www.youtube.com/watch?v=M5c9HdaQqh0&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd&t=0s) | Networking concepts as part of CompTIA Network+ Training Course from Professor Messer 
+[Networking Concepts](https://www.youtube.com/watch?v=M5c9HdaQqh0&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd&t=0s) | Networking concepts as part of CompTIA Network+ Training Course from Professor Messer
+[Binary Fingers!](https://www.mathsisfun.com/numbers/binary-count-fingers.html) | Count the binary numbers using your hands.
 [Computer Networking](https://cs144.github.io/) | Introduction to computer networking.
 [Wireshark® for Security Professionals](https://www.wiley.com/en-us/Wireshark+for+Security+Professionals%3A+Using+Wireshark+and+the+Metasploit+Framework-p-9781118918227) | Covers both offensive and defensive concepts that can be applied to essentially any InfoSec role.
-[Network Design 1](https://github.com/caitlinmallen/TechWiki/wiki/Network-Design) [Network Design 2](https://github.com/Tetoronie/Tech-Journal/wiki/Network-Design) [Cisco Packet Tracer](https://github.com/jhjrcyber/TechJournal/wiki/Cisco-Packet-Tracer) | Information on how to do network design, configurations in the Cisco IOS and commands page.
+
+### Optional
+Link | Description
+---|---
+[Network Design - Wiki](https://github.com/caitlinmallen/TechWiki/wiki/Network-Design) | Network design wiki by Caitlin M Allen
+[Network Design - Tech Journal](https://github.com/Tetoronie/Tech-Journal/wiki/Network-Design) | Network design by Chris Mathieson
 [Network Hardening Techniques](https://github.com/DanySafatli/network-handbook/wiki/3.3-Given-a-Scenario,-Implement-Network-Hardening-Techniques) | Network handbook for implement network hardening techniques given a scenario.
 
 ## Programming
@@ -162,6 +169,8 @@ Link | Description
 --- | ---
 [x86 Assembly](https://www.youtube.com/playlist?list=PLrA4KuHAnLON2HzADuORx19WY3YXbxfHR) | Introdcution to x86 Assembly Language by Davy Wybiral.
 [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/) | Tutorial series on ARM assembly basics by Azeria Labs.
+[ARM Shellcode](https://azeria-labs.com/writing-arm-shellcode/) | Introduction to writing ARM shellcode.
+[Windows Exploitation](https://fullpwnops.com/windows-exploitation-pathway.html) | Almost full list of post about Windows exploit development from basics to advanced kernel exploitation by Fu11Shade.
 
 ## Malware Analysis
 Link | Description
